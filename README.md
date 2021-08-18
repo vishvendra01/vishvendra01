@@ -7,11 +7,6 @@
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=vishvendra01&include_all_commits=true&count_private=true&theme=nightowl&show_icons=true" />
 </div>
 
-<div align="start" style= "align-content":center>
-  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvendra01&theme=nightowl&show_icons=true" />
-</div>
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvendra01&repo=PopFlix" />
 </a>
