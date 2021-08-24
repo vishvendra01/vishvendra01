@@ -7,10 +7,10 @@
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=vishvendra01&include_all_commits=true&count_private=true&theme=nightowl&show_icons=true" />
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vishvendra01/PopFlix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvendra01&repo=PopFlix" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/vishvendra01/CovidSlotsNotifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishvendra01&repo=CovidSlotsNotifier" />
 </a>
 
